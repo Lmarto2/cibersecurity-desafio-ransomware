@@ -1,4 +1,6 @@
 Entrega de projeto, desafio-ransomware
+
+
 ![Screenshot_2024-12-25_18_50_28](https://github.com/user-attachments/assets/558f3d8d-a43d-4fc4-8723-c9fd260fb3ce)
 
 ![Screenshot_2024-12-25_18_47_19](https://github.com/user-attachments/assets/11cdcca2-1338-4ffd-96c0-b68c734a0de6)
